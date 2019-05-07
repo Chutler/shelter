@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <title>Multco Shelter</title>
+  </head>
+  <body>
+
+  <h1>Welcome to MultCo Pets</h1>
+
+      <p>We have a wide range of pets available for adoption. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+
+      <div class="cat">
+        <h2>Pet Name</h2>
+        <img src=" ">
+        <p>Here's the good stuff about digital. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+        <p>Find out more about Pet Name <a href="http://www.example.com/digital.html">here</a>.</p>
+      </div>
+
+      <div class="dog">
+        <h2>Pet Name</h2>
+        <img src=" ">
+        <p>Here's the good stuff about digital. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+        <p>Find out more about Pet Name <a href="http://www.example.com/digital.html">here</a>.</p>
+      </div>
+
+      <div class="bat">
+        <h2>Pet Name</h2>
+        <img src=" ">
+        <p>Here's the good stuff about digital. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+        <p>Find out more about Pet Name <a href="http://www.example.com/digital.html">here</a>.</p>
+      </div>
+
+      <div class="lizard">
+        <h2>Pet Name</h2>
+        <img src=" ">
+        <p>Here's the good stuff about digital. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+
+        <p>Find out more about Pet Name <a href="http://www.example.com/digital.html">here</a>.</p>
+      </div>
+
+
+    <p>Here are some things I'm going to learn about coding:</p>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>And a lot more!</li>
+    </ul>
+  </body>
+</html>
